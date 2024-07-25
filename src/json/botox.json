@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "01B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Entrecejo",
+    "Imagen": "../images/entrecejo.jpg",
+    "Descripcion": "Actua paralizando el musculo corrugador con el fin de atenuar la arruga del entrecejo.",
+    "Precio": 450.00
+  },
+  {
+    "Id": "02B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Patitas de Gallo",
+    "Imagen": "../images/patitas-de-gallo.jpg",
+    "Descripcion": "Actua paralizando el musculo orbicular con el fin de atenuar las arrugas de los ojos .",
+    "Precio": 450.00
+  },
+  {
+    "Id": "03B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Codigo de Barra",
+    "Imagen": "../images/codigo-de-barra.jpg",
+    "Descripcion": "Actua paralizando el musculo orbicular de los labios con el fin de atenuar las arrugas peribucales.",
+    "Precio": 450.00
+  },
+  {
+    "Id": "04B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Bruxismo",
+    "Imagen": "../images/bruxismo.jpg",
+    "Descripcion": "Actua paralizando el musculo maseteo y temporal con el fin de atenuar la hipertrofia muscular de la patologia.",
+    "Precio": 1500.00
+  },
+  {
+    "Id": "05B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Sonrisa Gingival",
+    "Imagen": "../images/sonrisa-gingival.jpg",
+    "Descripcion": "Actua paralizando el musculo elevador del labio con el fin de mejorar la sonrisa y no se sobreexpongan las encias.",
+    "Precio": 1300.00
+  },
+  {
+    "Id": "06B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Frente",
+    "Imagen": "../images/frente.jpg",
+    "Descripcion": "Actua paralizando el musculo frontal con el fin de atenuar las arrugas de la frente.",
+    "Precio": 450.00
+  },
+  {
+    "Id": "07B",
+    "categoria": "botox",
+    "NombreProcedimiento": "Hiperhidrosis",
+    "Imagen": "../images/hiperhidrosis.jpg",
+    "Descripcion": "Actua paralizando las glandulas sudoriparas con el fin de atenuar la sudoración excesiva.",
+    "Precio": 1500.00
+  }
+]

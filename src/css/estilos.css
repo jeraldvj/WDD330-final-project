@@ -1,0 +1,100 @@
+#banner-container, #banner-container::before, #banner-container::after {
+    padding:  0%;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+#slideshow-principal {
+    position: relative;
+    overflow: hidden;
+}
+
+#progress-bar-container {
+    position: absolute;
+    height: 10px;
+    background-color: black;
+    width: 100%;
+    top: 0;
+    z-index: 15;
+}
+
+#progress-bar{
+    height: 100%;
+    background-color: rgba(228, 69, 69, 0.7);
+    border-radius: 0 3px 3px 0;
+    transition: width 0.8s;
+}
+
+#slideshow {
+    position: relative;
+    z-index: 9;
+    height: 600px;
+}
+
+#slideshow img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+#img2 {
+    left: 100%;
+}
+
+.active {
+    left: 0 !important;
+    transition: all 2s;
+}
+
+#indicadores{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+    z-index: 10;
+}
+
+.circles {
+    border: white 2px solid;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin: 0 5px 0 5px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+.resaltado{
+    background-color: rgba(228, 69, 69, 1);
+    transition: background-color .8s;
+}
+
+@media screen and (max-width: 400px) {
+    #slideshow {
+        height: 200px;
+    }
+}
+@media screen and (min-width: 400px) {
+    #slideshow {
+        height: 300px;
+    }
+}
+@media screen and (min-width: 500px) {
+    #slideshow {
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    #slideshow {
+        height: 500px;
+    }
+}
+@media screen and (min-width: 900px) {
+    #slideshow {
+        height: 600px;
+    }
+}

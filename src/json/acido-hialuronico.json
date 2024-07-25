@@ -1,0 +1,66 @@
+[
+  {
+   "Id": "01AH",
+   "categoria": "acido-hialuronico",
+   "NombreProcedimiento": "Rinomodelación",
+   "Imagen": "../images/rinomodelacion.jpg",
+   "Descripcion": "Rellena la nariz con acido hialuronico para darle un mejor perfil y modelado.",
+    "Precio": 1400.00
+  },
+  {
+    "Id": "02AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Perfilado Mandibular",
+    "Imagen": "../images/perfilado-mandibular.jpg",
+    "Descripcion": "Rellena el angulo mandibular para marcar y definir el contorno mandibular.",
+    "Precio": 1600.00
+  },
+  {
+    "Id": "03AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Relleno de Labios",
+    "Imagen": "../images/relleno-de-labios.jpg",
+    "Descripcion": "Aporta volumen para poder perfilar y definir los labios.",
+    "Precio": 1400.00
+  },
+  {
+    "Id": "04AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Relleno de Ojeras",
+    "Imagen": "../images/relleno-de-ojeras.jpg",
+    "Descripcion": "Rellena el surco palpebromalar para eliminar la mirada cansada.",
+    "Precio": 1300.00
+  },
+  {
+    "Id": "05AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Relleno de Pomulos",
+    "Imagen": "../images/relleno-de-pomulos.jpg",
+    "Descripcion": "Rellena el pomulo con acido hialuronico para poder mejorar la proyección del tercio medio.",
+    "Precio": 1350.00
+  },
+  {
+    "Id": "06AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Relleno de Menton",
+    "Imagen": "../images/relleno-de-menton.jpg",
+    "Descripcion": "Rellena el menton con acido hialuronico para darle una mejor proyección y definición al rostro.",
+    "Precio": 1300.00
+  },
+  {
+    "Id": "07AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Relleno de Fosa Temporal",
+    "Imagen": "../images/relleno-de-fosa-temporal.jpg",
+    "Descripcion": "Rellena la fosa temporal con acido hialuronico para atenuar los signos de envejecimiento producidos por lipoatrofia.",
+    "Precio": 1400.00
+  },
+  {
+    "Id": "08AH",
+    "categoria": "acido-hialuronico",
+    "NombreProcedimiento": "Relleno de Surco Nasogeniano",
+    "Imagen": "../images/relleno-de-surco-nasogeniano.jpg",
+    "Descripcion": "Rellena el surco nasolabial con acido hialuronico para atenuar los signos de envejecimiento producidos por lipoatrofia y gesticulación.",
+    "Precio": 1400.00
+  }
+]

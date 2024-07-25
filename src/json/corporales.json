@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "01C",
+    "categoria": "corporales",
+    "NombreProcedimiento": "Peptonas",
+    "Imagen": "../images/peptonas.jpg",
+    "Descripcion": "Se aplican estrategicamente en región glutea, para estimular el crecimiento muscular.",
+    "Precio": 1050.00
+  },
+  {
+    "Id": "02C",
+    "categoria": "corporales",
+    "NombreProcedimiento": "Lipolisis Enzimatica",
+    "Imagen": "../images/lipolisis-enzimatica.jpg",
+    "Descripcion": "Se aplican estrategicamente en la región con mayor tejido graso, para adelgazar o reducir el tejido adiposo.",
+    "Precio": 300.00
+  },
+  {
+    "Id": "03C",
+    "categoria": "corporales",
+    "NombreProcedimiento": "Plasma Capilar",
+    "Imagen": "../images/plasma-capilar.jpg",
+    "Descripcion": "Se aplica en toda la región que tiene alopecia o caida de cabello, para estimular el crecimiento folicular.",
+    "Precio": 250.00
+  },
+  {
+    "Id": "04C",
+    "categoria": "corporales",
+    "NombreProcedimiento": "Plasma Facial",
+    "Imagen": "../images/plasma-facial.jpg",
+    "Descripcion": "Se infiltra plasma en todo el rostro con fin de frenar y revertir los signos de envejecimiento.",
+    "Precio": 160.00
+  },
+  {
+    "Id": "05C",
+    "categoria": "corporales",
+    "NombreProcedimiento": "Fibroblast",
+    "Imagen": "../images/fibroblast.jpg",
+    "Descripcion": "Se hacen pequeñas carbonizaciones por medio de una corriente plasma con el fin de reducir la flacidez y mejorar el aspecto de las secuelas de acne.",
+    "Precio": 850.00
+  }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sleep Outside | Checkout</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="../js/checkout.js" type="module"></script>
+  </head>
+  <body>
+    <header class="divider" id="main-header"></header>
+    <main class="divider">
+      <section class="products">
+        <h2>Revision de Pedido</h2>
+        <form id="checkout-form">
+          <fieldset>
+            <legend>Tus Datos</legend>
+            <label for="fname">Nombres:</label>
+            <input type="text" id="fname" name="fname" required /><br /><br />
+            <label for="lname">Apellidos:</label>
+            <input type="text" id="lname" name="lname" required /><br /><br />
+            <label for="street">Edad:</label>
+            <input type="number" id="street" name="number" required /><br /><br />
+            <label for="city">Ciudad:</label>
+            <input type="text" id="ciudad" name="city" value="Santa Cruz" required /><br /><br />
+          </fieldset>
+          <fieldset class="checkout-summary">
+            <legend>Resumen de sus Pedidos</legend>
+            <ul>
+              <li>
+                <label><b>Procedimientos</b></label>
+                <div id="procedimientos"></div>
+              </li>
+              <li>
+                <label><b>Monto total</b></label>
+                <p id="orderTotal"></p>
+              </li>
+            </ul>
+          </fieldset>
+          <button id="checkoutSubmit" type="submit">Enviar</button>
+        </form>
+      </section>
+    </main>
+    <footer id="main-footer"></footer>
+  </body>
+</html>
